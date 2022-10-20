@@ -91,7 +91,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<form action="#" method="post" class="mod2">
 					<div class="col-md-6 col-xs-6 w3l-left-mk">
 						<ul>
-							<li class="text">Student Name :  </li>
+							<li class="text">First Name :  </li>
+                                                        < li class="text">Last Name :  </li>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="name" type="text" required=""></li>
 							<li class="text">Date of Birth :  </li>
 							<li class="agileits-main"><i class="fa fa-calendar" aria-hidden="true"></i><input class="date" id="datepicker" name="Text" type="text" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'mm/dd/yyyy';}" required="" /></li>
