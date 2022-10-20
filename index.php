@@ -104,11 +104,13 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</div>
 					<div class="col-md-6 col-xs-6 w3l-right-mk">
 						<ul>
-							<li class="text">mobile no  :  </li>
+							<li class="text">Cell phone no  :  </li>
+                                                        <li class="text">Home phone no  :  </li>
 							<li class="agileits-main"><i class="fa fa-phone" aria-hidden="true"></i><input name="mobile" type="text" required=""></li>
 							<li class="text">Address  :  </li>
+                                                        <li class="text">Apt#     : </li>:
 							<li class="agileits-main"><i class="fa fa-home" aria-hidden="true"></i><input name="address" type="text" required=""></li>
-							<li class="text">District  :  </li>
+							<li class="text">City  :  </li>
 							<li class="agileits-main"><i class="fa fa-map-marker" aria-hidden="true"></i><input name="address" type="text" required=""></li>
 							<li class="text">State  :  </li>
 							<li class="agileits-main"><i class="fa fa-map-marker" aria-hidden="true"></i><input name="address" type="text" required=""></li>
