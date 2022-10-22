@@ -87,7 +87,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<div class="abt-w3l">
 			<div class="header-w3l">
 				<h2>Admission Form</h2>
-				<h4>Enter the Following Details</h4>
+				<h4>Enter the Following Informations</h4>
 				<form action="#" method="post" class="mod2">
 					<div class="col-md-6 col-xs-6 w3l-left-mk">
 						<ul>
@@ -96,7 +96,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="name" type="text" required=""></li>
 							<li class="text">Date of Birth :  </li>
 							<li class="agileits-main"><i class="fa fa-calendar" aria-hidden="true"></i><input class="date" id="datepicker" name="Text" type="text" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'mm/dd/yyyy';}" required="" /></li>
-							<li class="text">Name of your referral  :  </li>
+							<li class="text">Name of your Advocate  :  </li>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="name" type="text" required=""></li>
 							<li class="text">Gender  :  </li>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="gender" type="text" required=""></li>
@@ -105,6 +105,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="col-md-6 col-xs-6 w3l-right-mk">
 						<ul>
 							<li class="text">Cell phone no  :  </li>
+							<li class="text">Home phone no  :  </li>
                                                         <li class="text">Home phone no  :  </li>
 							<li class="agileits-main"><i class="fa fa-phone" aria-hidden="true"></i><input name="mobile" type="text" required=""></li>
 							<li class="text">Address  :  </li>
